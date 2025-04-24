@@ -1,5 +1,4 @@
 ## Hi there 👋
-[![Peerlist](https://github-readme-badge.peerlist.io/api/praveen011?style=social)](https://peerlist.io/praveen011)
 <!--
 **imdp011/imdp011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
