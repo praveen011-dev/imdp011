@@ -12,5 +12,5 @@
 ---
 
 ## 📫 Connect with me
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
+- X: [(https://x.com/PalPraveen011)]
+- LinkedIn: [https://www.linkedin.com/in/praveen011/)
