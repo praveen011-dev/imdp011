@@ -10,3 +10,7 @@
 - MongoDB | Express.js | React.js | Node.js
 
 ---
+
+## 📫 Connect with me
+- Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourlinkedin)
