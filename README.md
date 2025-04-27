@@ -6,3 +6,7 @@
 - 🎯 2025 Goals: Build amazing projects, contribute to Open Source, and grow as a developer!
 
 ---
+## 🛠️ Tech Stack
+- MongoDB | Express.js | React.js | Node.js
+
+---
