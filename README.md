@@ -12,5 +12,5 @@
 ---
 
 ## 📫 Connect with me
-- X: [(https://x.com/PalPraveen011)]
-- LinkedIn: [https://www.linkedin.com/in/praveen011/)
+- X (Twitter): [@PalPraveen011](https://x.com/PalPraveen011)
+- LinkedIn: [Praveen Pal](https://www.linkedin.com/in/praveen011/)
